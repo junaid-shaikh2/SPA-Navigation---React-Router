@@ -39,7 +39,7 @@ export default function Home() {
             </aside>
 
             <div className="grid  place-items-center sm:mt-20">
-                <img className="rounded-xl sm:w-96 w-48" src={pic2} alt="image2" />
+                <img className="rounded-xl w-96" src={pic2} alt="image2" />
             </div>
 
             <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">Lorem Ipsum Yojo</h1>
