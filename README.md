@@ -1,17 +1,29 @@
-<<<<<<< HEAD
-# SPA-Navigation---React-Router
-A responsive React SPA using React Router DOM &amp; Tailwind CSS with dynamic routes, GitHub API data, and mobile-friendly navbar.
-=======
-# React + Vite
+# React Router SPA
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **Single Page Application (SPA)** built with **React** and **React Router DOM v6**.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Multi-page navigation using React Router.
+- Dynamic routes and URL parameters.
+- GitHub API integration (fetching followers & avatar).
+- Responsive navigation bar with Tailwind CSS.
+- Built with Vite for fast development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚙️ Setup
+### 1. Clone the repository:
+##### git clone https://github.com/junaid-shaikh2/SPA-Navigation---React-Router.git
 
-## Expanding the ESLint configuration
+### 2. Install dependencies:
+##### npm install
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 00e88d9 (Added React Router SPA project)
+### 3. Run the app:
+##### npm run dev
+
+## 🛠 Tech Stack
+#### React 18
+#### React Router DOM v6
+#### Tailwind CSS
+#### Vite
+
+## 📜 License
+#### Free and open-source.
